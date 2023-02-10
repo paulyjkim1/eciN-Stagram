@@ -6,7 +6,7 @@ eciN-stagram is a social media app mockup of the fourth most popular social medi
 
 ## Technologies
 - JavaScript
-- MongoDB
+- PostgreSQL
 - Express
 - Reactjs
 - Nodejs
